@@ -21,3 +21,5 @@ https://lucid.app/lucidchart/cc9f6bcf-035e-421c-bac7-a71a0e2dfd66/edit?viewport_
 
 
 ## Link del video explicando la creacion del modelo en mongoDB
+
+https://drive.google.com/file/d/1OPzEg3syJ-n0-qDyI68wqicT781fVxT5/view?usp=drive_link
