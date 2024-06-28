@@ -1,0 +1,360 @@
+[{
+  "_id": {
+    "$oid": "667eee0c36d444173d239ab2"
+  },
+  "titulo": "Nuevos descubrimientos en la ciencia",
+  "cuerpo": "Detalles sobre los recientes descubrimientos...",
+  "autor": "carlos.perez@gmail.com",
+  "lugar": "Madrid",
+  "fecha_de_publicacion": {
+    "$date": "2024-01-15T00:00:00.000Z"
+  },
+  "categoria": "Ciencia",
+  "fuente": "El País",
+  "etiquetas_tags": [
+    "ciencia",
+    "descubrimientos"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667eee0c36d444173d239ab3"
+  },
+  "titulo": "El cambio climático y sus efectos",
+  "cuerpo": "El cambio climático está afectando...",
+  "autor": "carlos.perez@gmail.com",
+  "lugar": "Barcelona",
+  "fecha_de_publicacion": {
+    "$date": "2024-01-20T00:00:00.000Z"
+  },
+  "categoria": "Medio Ambiente",
+  "fuente": "La Vanguardia",
+  "etiquetas_tags": [
+    "cambio climático",
+    "medio ambiente"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667eee0c36d444173d239ab4"
+  },
+  "titulo": "Economía global en 2024",
+  "cuerpo": "Las predicciones para la economía global...",
+  "autor": "maria.lopez@outlook.com",
+  "lugar": "Nueva York",
+  "fecha_de_publicacion": {
+    "$date": "2024-01-05T00:00:00.000Z"
+  },
+  "categoria": "Economía",
+  "fuente": "The Wall Street Journal",
+  "etiquetas_tags": [
+    "economía",
+    "global"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667eee0c36d444173d239ab5"
+  },
+  "titulo": "Avances en tecnología médica",
+  "cuerpo": "Nuevas tecnologías están revolucionando...",
+  "autor": "maria.lopez@outlook.com",
+  "lugar": "Londres",
+  "fecha_de_publicacion": {
+    "$date": "2024-01-25T00:00:00.000Z"
+  },
+  "categoria": "Salud",
+  "fuente": "BBC",
+  "etiquetas_tags": [
+    "tecnología",
+    "medicina"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667eee0c36d444173d239ab6"
+  },
+  "titulo": "Exploración espacial: Misión a Marte",
+  "cuerpo": "La próxima misión a Marte está planeada...",
+  "autor": "juan.garcia@gmail.com",
+  "lugar": "Houston",
+  "fecha_de_publicacion": {
+    "$date": "2024-01-10T00:00:00.000Z"
+  },
+  "categoria": "Espacio",
+  "fuente": "NASA",
+  "etiquetas_tags": [
+    "espacio",
+    "Marte"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667eee0c36d444173d239ab7"
+  },
+  "titulo": "Nuevas políticas educativas",
+  "cuerpo": "El gobierno ha anunciado nuevas políticas...",
+  "autor": "juan.garcia@gmail.com",
+  "lugar": "Ciudad de México",
+  "fecha_de_publicacion": {
+    "$date": "2024-01-12T00:00:00.000Z"
+  },
+  "categoria": "Educación",
+  "fuente": "El Universal",
+  "etiquetas_tags": [
+    "educación",
+    "políticas"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667eee0c36d444173d239ab8"
+  },
+  "titulo": "Avances en inteligencia artificial",
+  "cuerpo": "La IA está transformando diversas industrias...",
+  "autor": "ana.martinez@outlook.com",
+  "lugar": "San Francisco",
+  "fecha_de_publicacion": {
+    "$date": "2024-01-14T00:00:00.000Z"
+  },
+  "categoria": "Tecnología",
+  "fuente": "TechCrunch",
+  "etiquetas_tags": [
+    "IA",
+    "tecnología"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667eee0c36d444173d239ab9"
+  },
+  "titulo": "El arte contemporáneo hoy",
+  "cuerpo": "Exposiciones y tendencias en el arte contemporáneo...",
+  "autor": "ana.martinez@outlook.com",
+  "lugar": "París",
+  "fecha_de_publicacion": {
+    "$date": "2024-01-17T00:00:00.000Z"
+  },
+  "categoria": "Arte",
+  "fuente": "Le Monde",
+  "etiquetas_tags": [
+    "arte",
+    "contemporáneo"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667eee0c36d444173d239aba"
+  },
+  "titulo": "Crisis política en América Latina",
+  "cuerpo": "Análisis de la situación política actual...",
+  "autor": "pedro.rodriguez@gmail.com",
+  "lugar": "Buenos Aires",
+  "fecha_de_publicacion": {
+    "$date": "2024-01-19T00:00:00.000Z"
+  },
+  "categoria": "Política",
+  "fuente": "Clarín",
+  "etiquetas_tags": [
+    "política",
+    "América Latina"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667eee0c36d444173d239abb"
+  },
+  "titulo": "Deportes y salud: beneficios del ejercicio",
+  "cuerpo": "El ejercicio regular tiene múltiples beneficios...",
+  "autor": "pedro.rodriguez@gmail.com",
+  "lugar": "Santiago",
+  "fecha_de_publicacion": {
+    "$date": "2024-01-22T00:00:00.000Z"
+  },
+  "categoria": "Salud",
+  "fuente": "El Mercurio",
+  "etiquetas_tags": [
+    "deportes",
+    "salud"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667eee0c36d444173d239abc"
+  },
+  "titulo": "Desarrollo de energías renovables",
+  "cuerpo": "Las energías renovables están en auge...",
+  "autor": "carlos.perez@gmail.com",
+  "lugar": "Berlin",
+  "fecha_de_publicacion": {
+    "$date": "2024-01-01T00:00:00.000Z"
+  },
+  "categoria": "Energía",
+  "fuente": "DW",
+  "etiquetas_tags": [
+    "energías renovables",
+    "desarrollo"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667eee0c36d444173d239abd"
+  },
+  "titulo": "Innovaciones en transporte público",
+  "cuerpo": "Nuevas tecnologías para el transporte público...",
+  "autor": "maria.lopez@outlook.com",
+  "lugar": "Tokio",
+  "fecha_de_publicacion": {
+    "$date": "2024-01-02T00:00:00.000Z"
+  },
+  "categoria": "Transporte",
+  "fuente": "NHK",
+  "etiquetas_tags": [
+    "transporte",
+    "innovaciones"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667eee0c36d444173d239abe"
+  },
+  "titulo": "Impacto de la pandemia en la educación",
+  "cuerpo": "La pandemia ha cambiado la educación...",
+  "autor": "juan.garcia@gmail.com",
+  "lugar": "Delhi",
+  "fecha_de_publicacion": {
+    "$date": "2024-01-03T00:00:00.000Z"
+  },
+  "categoria": "Educación",
+  "fuente": "The Times of India",
+  "etiquetas_tags": [
+    "pandemia",
+    "educación"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667eee0c36d444173d239abf"
+  },
+  "titulo": "Turismo sostenible en 2024",
+  "cuerpo": "El turismo sostenible se está convirtiendo...",
+  "autor": "ana.martinez@outlook.com",
+  "lugar": "Bali",
+  "fecha_de_publicacion": {
+    "$date": "2024-01-04T00:00:00.000Z"
+  },
+  "categoria": "Turismo",
+  "fuente": "Travel+Leisure",
+  "etiquetas_tags": [
+    "turismo",
+    "sostenible"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667eee0c36d444173d239ac0"
+  },
+  "titulo": "Nuevas tendencias en moda",
+  "cuerpo": "Las tendencias de moda para este año...",
+  "autor": "pedro.rodriguez@gmail.com",
+  "lugar": "Milán",
+  "fecha_de_publicacion": {
+    "$date": "2024-01-06T00:00:00.000Z"
+  },
+  "categoria": "Moda",
+  "fuente": "Vogue",
+  "etiquetas_tags": [
+    "moda",
+    "tendencias"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667eee0c36d444173d239ac1"
+  },
+  "titulo": "Revolución en el sector automotriz",
+  "cuerpo": "Los coches eléctricos están cambiando...",
+  "autor": "carlos.perez@gmail.com",
+  "lugar": "Detroit",
+  "fecha_de_publicacion": {
+    "$date": "2024-01-07T00:00:00.000Z"
+  },
+  "categoria": "Automotriz",
+  "fuente": "Automotive News",
+  "etiquetas_tags": [
+    "coches eléctricos",
+    "automotriz"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667eee0c36d444173d239ac2"
+  },
+  "titulo": "Seguridad cibernética en 2024",
+  "cuerpo": "La ciberseguridad es más importante que nunca...",
+  "autor": "maria.lopez@outlook.com",
+  "lugar": "Seúl",
+  "fecha_de_publicacion": {
+    "$date": "2024-01-08T00:00:00.000Z"
+  },
+  "categoria": "Tecnología",
+  "fuente": "The Korea Herald",
+  "etiquetas_tags": [
+    "ciberseguridad",
+    "tecnología"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667eee0c36d444173d239ac3"
+  },
+  "titulo": "Desafíos del cambio demográfico",
+  "cuerpo": "El cambio demográfico está afectando a la economía...",
+  "autor": "juan.garcia@gmail.com",
+  "lugar": "Pekín",
+  "fecha_de_publicacion": {
+    "$date": "2024-01-09T00:00:00.000Z"
+  },
+  "categoria": "Demografía",
+  "fuente": "China Daily",
+  "etiquetas_tags": [
+    "demografía",
+    "economía"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667eee0c36d444173d239ac4"
+  },
+  "titulo": "El futuro del trabajo remoto",
+  "cuerpo": "El trabajo remoto ha llegado para quedarse...",
+  "autor": "ana.martinez@outlook.com",
+  "lugar": "Sídney",
+  "fecha_de_publicacion": {
+    "$date": "2024-01-11T00:00:00.000Z"
+  },
+  "categoria": "Trabajo",
+  "fuente": "The Sydney Morning Herald",
+  "etiquetas_tags": [
+    "trabajo remoto",
+    "futuro"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667eee0c36d444173d239ac5"
+  },
+  "titulo": "Innovaciones en la agricultura",
+  "cuerpo": "La tecnología está transformando la agricultura...",
+  "autor": "pedro.rodriguez@gmail.com",
+  "lugar": "Nairobi",
+  "fecha_de_publicacion": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  },
+  "categoria": "Agricultura",
+  "fuente": "The Standard",
+  "etiquetas_tags": [
+    "agricultura",
+    "tecnología"
+  ]
+}]

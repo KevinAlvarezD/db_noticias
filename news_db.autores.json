@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "667eedca36d444173d239aad"
+  },
+  "nombre": "Carlos",
+  "apellido": "Pérez",
+  "correo_electronico": "carlos.perez@gmail.com",
+  "redes_sociales": "@carlosp",
+  "telefono": "1234567890"
+},
+{
+  "_id": {
+    "$oid": "667eedca36d444173d239aae"
+  },
+  "nombre": "María",
+  "apellido": "López",
+  "correo_electronico": "maria.lopez@outlook.com",
+  "redes_sociales": "@marial",
+  "telefono": "0987654321"
+},
+{
+  "_id": {
+    "$oid": "667eedca36d444173d239aaf"
+  },
+  "nombre": "Juan",
+  "apellido": "García",
+  "correo_electronico": "juan.garcia@gmail.com",
+  "redes_sociales": "@juang",
+  "telefono": "1122334455"
+},
+{
+  "_id": {
+    "$oid": "667eedca36d444173d239ab0"
+  },
+  "nombre": "Ana",
+  "apellido": "Martínez",
+  "correo_electronico": "ana.martinez@outlook.com",
+  "redes_sociales": "@anam",
+  "telefono": "2233445566"
+},
+{
+  "_id": {
+    "$oid": "667eedca36d444173d239ab1"
+  },
+  "nombre": "Pedro",
+  "apellido": "Rodríguez",
+  "correo_electronico": "pedro.rodriguez@gmail.com",
+  "redes_sociales": "@pedror",
+  "telefono": "3344556677"
+}]
