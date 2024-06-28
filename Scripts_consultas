@@ -1,0 +1,30 @@
+Se solicitaron las siguientes consultas para el modelo en Mongo
+Consultas para:
+■ Obtener el listado de noticias de un autor, en donde el campo de
+búsqueda o filtro del autor es su email.
+RESPUESTA:
+db.noticias.find({autor: "carlos.perez@gmail.com"})
+
+esto devolvera todas las noticas que tenga este autor filtradopor su correo
+
+----------------------------------------------------------------------------
+■ Obtener el listado de noticias de un autor, en donde el campo de
+búsqueda o filtro del autor es su nombre, los resultados deben salir
+de forma ordenada por el campo fecha de publicación de form
+descendente, es decir primero se ven las más recientes.
+
+var autorEmail = db.autores.findOne({nombre:"Carlos", apellido: "Perez"}).correo electronico
+db.noticias.find({autor: autorEmail}).sort({fecha_de_publicacion: -1})
+
+esto devolvera en orden de publicacion las noticas de dicho autor
+
+-----------------------------------------------------------------------------------
+■ Obtener un listado de noticias filtrado por un rango de fechas, por
+ejemplo todas las noticias entre el 10-01-2024 y el 30-01-2024
+
+RESPUESTA
+var startDate = new Date ("2024-01-10")
+var endDate = new Date("2024-01-30")
+db.noticias.find({fecha_de_publicacion:{$gte: startDate, $lte: endDate}})
+
+esto devolvera el rango de noticias publicada en esas fechas estipuladas.
